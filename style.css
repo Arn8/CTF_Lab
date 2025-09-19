@@ -1,0 +1,11 @@
+/* assets/styles.css */
+:root{font-family:Inter,system-ui,Segoe UI,Roboto,"Helvetica Neue",Arial,sans-serif}
+body{background:#0f172a;color:#e6eef8;margin:0;padding:2rem}
+.container{max-width:880px;margin:0 auto;padding:2rem;background:#071026;border-radius:8px;box-shadow:0 6px 18px rgba(2,6,23,.6)}
+h1{font-size:2rem;margin:0}
+.tagline{class="centered-monospace-heading"}
+a{color:#8ad4ff;text-decoration:none}
+a:hover{text-decoration:underline}
+section{margin-top:1.25rem}
+code{background:#0e2740;padding:.1rem .4rem;border-radius:4px}
+footer{margin-top:1.5rem;color:#9aaec7}
